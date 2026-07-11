@@ -78,9 +78,8 @@ This dashboard addresses these challenges by providing a centralized view of key
 ---
 
 ## Dashboard Preview
+<img width="1263" height="714" alt="image" src="https://github.com/user-attachments/assets/55154dc1-c818-4ad1-8f12-0a7b40e0d547" />
 
-<img width="100%" alt="PhonePe Dashboard" src="<img width="1263" height="714" alt="image" src="https://github.com/user-attachments/assets/25279f51-1d9b-4b42-b6de-363704e8669e" />
-">
 
 ---
 
