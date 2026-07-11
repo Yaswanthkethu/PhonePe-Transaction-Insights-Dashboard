@@ -1,72 +1,112 @@
-# PhonePe-Transaction-Insights-Dashboard
+# PhonePe Payment Insights Dashboard
 
-Overview
-The PhonePe Transaction Insights Dashboard is an interactive Power BI project designed to analyze digital payment transactions and provide meaningful business insights. It enables stakeholders to monitor transaction performance, user engagement, payment success rates, and service-wise transaction distribution through dynamic visualizations and KPIs.
+## Overview
 
-Business Objective:
-The objective of this dashboard is to help business teams:
-Monitor transaction growth over time
-Analyze payment success rates
-Identify high-value users
-Compare weekday and weekend usage
-Understand age-group contribution
-Evaluate service-wise transaction value
-Support data-driven business decisions
+The PhonePe Payment Insights Dashboard is an interactive Power BI project developed to analyze digital payment transactions and customer behavior. The dashboard transforms raw transactional data into meaningful business insights through dynamic visualizations, KPIs, and interactive filters, enabling better decision-making.
 
-Dashboard Features:
-Total Transactions KPI
-Total Transaction Value
-Unique Users
-Payment Success Rate
-Monthly Transaction Trend
-Age Segment Contribution
-Service-wise Transaction Value
-Top 5 Users by Transaction Value
-Weekday vs Weekend Analysis
-Interactive Month & Payment Status Filters
-Business Insights Panel
+---
 
-Tools & Technologies:
-Power BI
-Power Query
-DAX
-Microsoft Excel
+## Business Problem
 
-Key Insights
-High-value users generate the majority of transaction value.
-Weekend transactions are higher than weekday transactions.
-Millennials and Gen X contribute the largest share of transactions.
-Payment success rate remains above 95%.
-Transaction value shows steady month-over-month growth.
+Digital payment platforms generate a large volume of transaction data every day. Without effective visualization and analysis, it becomes difficult to identify payment trends, monitor transaction performance, understand customer behavior, and evaluate service usage.
 
+This dashboard addresses these challenges by providing a centralized view of key business metrics and performance indicators.
 
-Repository Structure:
-PhonePe-Transaction-Insights-Dashboard
+---
+
+## Business Objectives
+
+- Analyze overall transaction performance.
+- Monitor payment success and failure rates.
+- Understand customer demographics and transaction behavior.
+- Identify high-performing payment services.
+- Compare weekday and weekend transaction trends.
+- Enable interactive exploration of data using filters.
+
+---
+
+## Dashboard Features
+
+- Total Transactions
+- Total Transaction Value
+- Unique Users
+- Payment Success Rate
+- Monthly Transaction Trend
+- Service-wise Transaction Distribution
+- Age Group Analysis
+- Weekday vs Weekend Comparison
+- Top 5 Users by Transaction Value
+- Interactive Slicers for Month and Payment Status
+
+---
+
+## Key Insights
+
+- Processed over **3.47 Billion** transactions.
+- Achieved a **96% payment success rate**, indicating strong transaction reliability.
+- Millennials and Gen X contributed the largest share of transactions.
+- Weekend transaction activity exceeded weekday activity.
+- Loan services generated the highest transaction value among all services.
+- User engagement remained consistent across multiple months.
+
+---
+
+## Tools and Technologies
+
+- Power BI
+- Power Query
+- DAX
+- Data Modeling
+- Data Cleaning
+- Data Visualization
+- Business Intelligence
+
+---
+
+## Skills Demonstrated
+
+- Dashboard Development
+- KPI Design
+- Data Transformation
+- Data Analysis
+- Business Insight Generation
+- Interactive Reporting
+- DAX Calculations
+- Power Query
+- Analytical Thinking
+
+---
+
+## Dashboard Preview
+
+<img width="100%" alt="PhonePe Dashboard" src="<img width="1263" height="714" alt="image" src="https://github.com/user-attachments/assets/25279f51-1d9b-4b42-b6de-363704e8669e" />
+">
+
+---
+
+## Repository Structure
+
+```
+PhonePe-Payment-Insights-Dashboard
 │
-├── Dashboard.pbix
+├── PhonePe Dashboard.pbix
+├── Dashboard Screenshot.png
 ├── Dataset.xlsx
-├── Dashboard.png
 └── README.md
+```
 
-Dashboard Preview
-<img width="1144" height="637" alt="image" src="https://github.com/user-attachments/assets/7fd8c051-f549-48b8-822b-a3d719d9d3af" />
+---
 
+## Conclusion
 
-Skills:
-Data Cleaning
-Data Transformation
-Data Modeling
-DAX Calculations
-KPI Development
-Dashboard Design
-Business Intelligence
-Data Visualization
-Interactive Reporting
-Business Analysis
+This project demonstrates the ability to convert raw payment transaction data into actionable business insights using Power BI. It highlights essential data analytics skills, including data modeling, visualization, KPI creation, and business reporting, making it suitable for a data analyst portfolio.
 
-Project Highlights:
-Executive-level interactive dashboard
-Modern UI inspired by PhonePe branding
-Interactive slicers and dynamic KPIs
-Business-focused insights for decision-making
-Clean and professional dashboard layout
+---
+
+## Author
+
+**Yaswanth Siva Reddy Kethu**
+
+LinkedIn: https://www.linkedin.com/in/kethu-yaswanth-siva-reddy/
+
+GitHub: https://github.com/Yaswanthkethu
